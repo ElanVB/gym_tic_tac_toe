@@ -1,0 +1,2 @@
+from gym_tic_tac_toe.envs.tic_tac_toe_env import TicTacToeEnv
+# from gym_tic_tac_toe.envs.gym_tic_tac_toe_extrahard_env import TicTacToeExtraHardEnv
